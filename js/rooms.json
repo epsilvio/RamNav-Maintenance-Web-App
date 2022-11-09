@@ -1,0 +1,1253 @@
+[
+    {
+        "roomID": "101",
+        "name": "Clinic",
+        "roomNum": "N\/A",
+        "roomLvl": "1st",
+        "keyword1": "Nurse",
+        "keyword2": "Medicine",
+        "keyword3": "First Aid"
+    },
+    {
+        "roomID": "102",
+        "name": "Chapel",
+        "roomNum": "N\/A",
+        "roomLvl": "1st",
+        "keyword1": "Mass",
+        "keyword2": "Baccalaureate",
+        "keyword3": "Church"
+    },
+    {
+        "roomID": "103",
+        "name": "Multi-Purpose Hall 1",
+        "roomNum": "N\/A",
+        "roomLvl": "1st",
+        "keyword1": "Event",
+        "keyword2": "Assembly",
+        "keyword3": "Gather"
+    },
+    {
+        "roomID": "104",
+        "name": "Admissions Office",
+        "roomNum": "N\/A",
+        "roomLvl": "1st",
+        "keyword1": "Enroll",
+        "keyword2": "Inquire",
+        "keyword3": "Application"
+    },
+    {
+        "roomID": "105",
+        "name": "Guard Lobby",
+        "roomNum": "N\/A",
+        "roomLvl": "1st",
+        "keyword1": "Desk",
+        "keyword2": "Assistance",
+        "keyword3": "Service"
+    },
+    {
+        "roomID": "106",
+        "name": "Cafeteria",
+        "roomNum": "N\/A",
+        "roomLvl": "1st",
+        "keyword1": "Food",
+        "keyword2": "Eat",
+        "keyword3": "Order"
+    },
+    {
+        "roomID": "201",
+        "name": "Lecture Room",
+        "roomNum": "201",
+        "roomLvl": "2nd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "202",
+        "name": "APC Cybersecurity Room",
+        "roomNum": "202",
+        "roomLvl": "2nd",
+        "keyword1": "Cybersecurity",
+        "keyword2": "Palo Alto",
+        "keyword3": "IT"
+    },
+    {
+        "roomID": "203",
+        "name": "Lecture Room",
+        "roomNum": "203",
+        "roomLvl": "2nd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "204",
+        "name": "Computer Laboratory",
+        "roomNum": "204",
+        "roomLvl": "2nd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "205",
+        "name": "Lecture Room",
+        "roomNum": "205",
+        "roomLvl": "2nd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "206",
+        "name": "Computer Laboratory",
+        "roomNum": "206",
+        "roomLvl": "2nd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "207",
+        "name": "Lecture Room",
+        "roomNum": "207",
+        "roomLvl": "2nd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "208",
+        "name": "Computer Laboratory",
+        "roomNum": "208",
+        "roomLvl": "2nd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "209",
+        "name": "Multi-purpose Hall 2",
+        "roomNum": "209",
+        "roomLvl": "2nd",
+        "keyword1": "Event",
+        "keyword2": "Assembly",
+        "keyword3": "Gather"
+    },
+    {
+        "roomID": "210",
+        "name": "Lecture Room",
+        "roomNum": "213",
+        "roomLvl": "2nd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "211",
+        "name": "Storage Room",
+        "roomNum": "214",
+        "roomLvl": "2nd",
+        "keyword1": "Storage",
+        "keyword2": "Store",
+        "keyword3": "Equipment"
+    },
+    {
+        "roomID": "212",
+        "name": "Isolation Area",
+        "roomNum": "215",
+        "roomLvl": "2nd",
+        "keyword1": "Isolate",
+        "keyword2": "Covid",
+        "keyword3": "Sick"
+    },
+    {
+        "roomID": "213",
+        "name": "Computer Laboratory",
+        "roomNum": "216",
+        "roomLvl": "2nd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "214",
+        "name": "Isolation Area",
+        "roomNum": "217",
+        "roomLvl": "2nd",
+        "keyword1": "Isolate",
+        "keyword2": "Covid",
+        "keyword3": "Sick"
+    },
+    {
+        "roomID": "215",
+        "name": "Microsoft Experience Center",
+        "roomNum": "218",
+        "roomLvl": "2nd",
+        "keyword1": "Microsoft",
+        "keyword2": "Hub",
+        "keyword3": "Electronics"
+    },
+    {
+        "roomID": "301",
+        "name": "Student Lounge",
+        "roomNum": "301",
+        "roomLvl": "3rd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "302",
+        "name": "Computer Laboratory",
+        "roomNum": "302",
+        "roomLvl": "3rd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "303",
+        "name": "Student Activities Office",
+        "roomNum": "303",
+        "roomLvl": "3rd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "304",
+        "name": "Computer Laboratory",
+        "roomNum": "304",
+        "roomLvl": "3rd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "305",
+        "name": "Lecture Room",
+        "roomNum": "305",
+        "roomLvl": "3rd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "306",
+        "name": "Computer Laboratory",
+        "roomNum": "306",
+        "roomLvl": "3rd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "307",
+        "name": "Lecture Room",
+        "roomNum": "307",
+        "roomLvl": "3rd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "308",
+        "name": "Computer Laboratory",
+        "roomNum": "308",
+        "roomLvl": "3rd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "309",
+        "name": "Lecture Room",
+        "roomNum": "309",
+        "roomLvl": "3rd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "310",
+        "name": "Lecture Room",
+        "roomNum": "313",
+        "roomLvl": "3rd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "311",
+        "name": "Computer Laboratory",
+        "roomNum": "314",
+        "roomLvl": "3rd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "312",
+        "name": "Lecture Room",
+        "roomNum": "315",
+        "roomLvl": "3rd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "313",
+        "name": "Computer Laboratory",
+        "roomNum": "316",
+        "roomLvl": "3rd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "314",
+        "name": "Lecture Room",
+        "roomNum": "317",
+        "roomLvl": "3rd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "315",
+        "name": "Computer Laboratory",
+        "roomNum": "318",
+        "roomLvl": "3rd",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "401",
+        "name": "President's Office",
+        "roomNum": "401",
+        "roomLvl": "4th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "402",
+        "name": "Director's Office",
+        "roomNum": "403",
+        "roomLvl": "4th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "403",
+        "name": "Director's Office",
+        "roomNum": "405",
+        "roomLvl": "4th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "404",
+        "name": "Faculty Area",
+        "roomNum": "406",
+        "roomLvl": "4th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "405",
+        "name": "Board Room",
+        "roomNum": "407",
+        "roomLvl": "4th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "406",
+        "name": "Lecture Room",
+        "roomNum": "409",
+        "roomLvl": "4th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "407",
+        "name": "Accounting & Finance Office",
+        "roomNum": "411",
+        "roomLvl": "4th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "408",
+        "name": "Registrar's Office",
+        "roomNum": "413",
+        "roomLvl": "4th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "409",
+        "name": "Open Laboratory",
+        "roomNum": "414",
+        "roomLvl": "4th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "410",
+        "name": "Isolation Area",
+        "roomNum": "415",
+        "roomLvl": "4th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "411",
+        "name": "Lecture Room",
+        "roomNum": "416",
+        "roomLvl": "4th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "412",
+        "name": "Lecture Room",
+        "roomNum": "417",
+        "roomLvl": "4th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "413",
+        "name": "Lecture Room",
+        "roomNum": "418",
+        "roomLvl": "4th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "501",
+        "name": "IT Resource Office",
+        "roomNum": "501",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "502",
+        "name": "Networking Laboratory",
+        "roomNum": "502",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "503",
+        "name": "Consulting Services Office",
+        "roomNum": "504",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "504",
+        "name": "Linux Laboratory",
+        "roomNum": "505",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "505",
+        "name": "Game Studio",
+        "roomNum": "506",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "506",
+        "name": "Human Resources Office",
+        "roomNum": "507",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "507",
+        "name": "Documentation Room",
+        "roomNum": "507",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "508",
+        "name": "Discussion Room A",
+        "roomNum": "508",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "509",
+        "name": "Discussion Room B",
+        "roomNum": "508",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "510",
+        "name": "APC Technology Center",
+        "roomNum": "509",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "511",
+        "name": "Career & Placement Office",
+        "roomNum": "514",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "512",
+        "name": "NSTP Office",
+        "roomNum": "514",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "513",
+        "name": "Student Services",
+        "roomNum": "514",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "514",
+        "name": "2D Animation Laboratory",
+        "roomNum": "515",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "515",
+        "name": "Foley Recording Studio",
+        "roomNum": "516",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "516",
+        "name": "Music Recording Studio",
+        "roomNum": "516",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "517",
+        "name": "Video & Photography Room",
+        "roomNum": "518",
+        "roomLvl": "5th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "601",
+        "name": "Lecture Room",
+        "roomNum": "601",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "602",
+        "name": "Graphic Design & Sound Laboratory",
+        "roomNum": "602",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "603",
+        "name": "Lecture Room",
+        "roomNum": "603",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "604",
+        "name": "Animation Laboratory",
+        "roomNum": "604",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "605",
+        "name": "Lecture Room",
+        "roomNum": "605",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "606",
+        "name": "Game Laboratory",
+        "roomNum": "606",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "607",
+        "name": "Lecture Room",
+        "roomNum": "607",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "608",
+        "name": "Video Editing Laboratory",
+        "roomNum": "608",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "609",
+        "name": "Small Room A",
+        "roomNum": "609",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "610",
+        "name": "Small Room B",
+        "roomNum": "609",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "611",
+        "name": "Small Room C",
+        "roomNum": "609",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "612",
+        "name": "Lecture Room",
+        "roomNum": "611",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "613",
+        "name": "Psychology Laboratory",
+        "roomNum": "613",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "614",
+        "name": "Lecture Room",
+        "roomNum": "614",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "615",
+        "name": "Lecture Room",
+        "roomNum": "615",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "616",
+        "name": "Lecture Room",
+        "roomNum": "616",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "617",
+        "name": "Lecture Room",
+        "roomNum": "617",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "618",
+        "name": "Lecture Room",
+        "roomNum": "618",
+        "roomLvl": "6th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "701",
+        "name": "Library Phase 1",
+        "roomNum": "N\/A",
+        "roomLvl": "7th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "702",
+        "name": "Discussion Room A",
+        "roomNum": "N\/A",
+        "roomLvl": "7th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "703",
+        "name": "Discussion Room B",
+        "roomNum": "N\/A",
+        "roomLvl": "7th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "704",
+        "name": "Discussion Room C",
+        "roomNum": "N\/A",
+        "roomLvl": "7th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "705",
+        "name": "SHS Faculty",
+        "roomNum": "N\/A",
+        "roomLvl": "7th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "706",
+        "name": "Audio Visual Room",
+        "roomNum": "N\/A",
+        "roomLvl": "7th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "707",
+        "name": "Technical Library",
+        "roomNum": "N\/A",
+        "roomLvl": "7th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "708",
+        "name": "Library Office",
+        "roomNum": "N\/A",
+        "roomLvl": "7th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "709",
+        "name": "Research Room",
+        "roomNum": "N\/A",
+        "roomLvl": "7th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "710",
+        "name": "Library Phase 2",
+        "roomNum": "N\/A",
+        "roomLvl": "7th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "711",
+        "name": "Math & English Resource Center",
+        "roomNum": "N\/A",
+        "roomLvl": "7th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "801",
+        "name": "Digital Electronics Laboratory",
+        "roomNum": "801",
+        "roomLvl": "8th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "802",
+        "name": "National Instruments Laboratory",
+        "roomNum": "802",
+        "roomLvl": "8th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "803",
+        "name": "Engineering & Science Laboratory Office",
+        "roomNum": "803",
+        "roomLvl": "8th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "804",
+        "name": "Electronics & Circuits Laboratory",
+        "roomNum": "805",
+        "roomLvl": "8th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "805",
+        "name": "Physics Laboratory",
+        "roomNum": "806",
+        "roomLvl": "8th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "806",
+        "name": "Networking & Communication Laboratory",
+        "roomNum": "807",
+        "roomLvl": "8th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "807",
+        "name": "Project Laboratory A",
+        "roomNum": "808",
+        "roomLvl": "8th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "808",
+        "name": "Project Laboratory B",
+        "roomNum": "808",
+        "roomLvl": "8th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "809",
+        "name": "Lecture Room",
+        "roomNum": "809",
+        "roomLvl": "8th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "810",
+        "name": "Lecture Room",
+        "roomNum": "811",
+        "roomLvl": "8th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "811",
+        "name": "Lecture Room",
+        "roomNum": "813",
+        "roomLvl": "8th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "812",
+        "name": "Project Laboratory C",
+        "roomNum": "814",
+        "roomLvl": "8th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "813",
+        "name": "Lecture Room",
+        "roomNum": "815",
+        "roomLvl": "8th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "814",
+        "name": "Lecture Room",
+        "roomNum": "816",
+        "roomLvl": "8th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "815",
+        "name": "Lecture Room",
+        "roomNum": "817",
+        "roomLvl": "8th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "816",
+        "name": "Lecture Room",
+        "roomNum": "818",
+        "roomLvl": "8th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "901",
+        "name": "Dormitory",
+        "roomNum": "N\/A",
+        "roomLvl": "9th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "902",
+        "name": "Dormitory Lounge",
+        "roomNum": "N\/A",
+        "roomLvl": "9th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1001",
+        "name": "Fitness Center",
+        "roomNum": "1004",
+        "roomLvl": "10th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1002",
+        "name": "Table Tennis Area",
+        "roomNum": "1004",
+        "roomLvl": "10th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1003",
+        "name": "Female Shower Room",
+        "roomNum": "1007",
+        "roomLvl": "10th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1004",
+        "name": "Male Shower Room",
+        "roomNum": "1008",
+        "roomLvl": "10th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1005",
+        "name": "Purchasing & Logistics Office",
+        "roomNum": "1009",
+        "roomLvl": "10th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1006",
+        "name": "Discipline Office",
+        "roomNum": "1009",
+        "roomLvl": "10th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1007",
+        "name": "Building Maintenance Office",
+        "roomNum": "1011",
+        "roomLvl": "10th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1008",
+        "name": "Kitchen",
+        "roomNum": "1011",
+        "roomLvl": "10th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1009",
+        "name": "Lecture Room",
+        "roomNum": "1013",
+        "roomLvl": "10th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1010",
+        "name": "Lecture Room",
+        "roomNum": "1014",
+        "roomLvl": "10th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1011",
+        "name": "Lecture Room",
+        "roomNum": "1015",
+        "roomLvl": "10th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1012",
+        "name": "Lecture Room",
+        "roomNum": "1016",
+        "roomLvl": "10th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1013",
+        "name": "Lecture Room",
+        "roomNum": "1017",
+        "roomLvl": "10th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1014",
+        "name": "Lecture Room",
+        "roomNum": "1018",
+        "roomLvl": "10th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1101",
+        "name": "Gymnasium",
+        "roomNum": "1109",
+        "roomLvl": "11th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1102",
+        "name": "Guidance Office",
+        "roomNum": "1110",
+        "roomLvl": "11th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1103",
+        "name": "Chemical Storage",
+        "roomNum": "1111",
+        "roomLvl": "11th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1104",
+        "name": "Chemistry Laboratory",
+        "roomNum": "1113",
+        "roomLvl": "11th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1105",
+        "name": "Art Studio",
+        "roomNum": "1114",
+        "roomLvl": "11th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1106",
+        "name": "Lecture Room",
+        "roomNum": "1115",
+        "roomLvl": "11th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1107",
+        "name": "Art Studio",
+        "roomNum": "1116",
+        "roomLvl": "11th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1108",
+        "name": "Project Laboratory",
+        "roomNum": "1116",
+        "roomLvl": "11th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1109",
+        "name": "Lecture Room",
+        "roomNum": "1117",
+        "roomLvl": "11th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1110",
+        "name": "Band Practice Room",
+        "roomNum": "1118",
+        "roomLvl": "11th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1111",
+        "name": "Mock Travel Counter",
+        "roomNum": "1118",
+        "roomLvl": "11th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    },
+    {
+        "roomID": "1201",
+        "name": "Auditorium",
+        "roomNum": "N\/A",
+        "roomLvl": "12th",
+        "keyword1": "N\/A",
+        "keyword2": "N\/A",
+        "keyword3": "N\/A"
+    }
+]
