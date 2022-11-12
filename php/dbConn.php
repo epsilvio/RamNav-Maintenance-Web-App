@@ -1,8 +1,8 @@
 <?php
-    $servername = "ramnav-db.mysql.database.azure.com";
-    $username = "azureuser";
-    $password = "Nextgen2021";
-    $db = "ramnav-db";
+    $servername = "[SERVER_NAME]";
+    $username = "[USERNAME]";
+    $password = "[PASSWORD]";
+    $db = "[DB_NAME]";
 
     // Create connection
     $conn = new mysqli($servername, $username, $password, $db);
